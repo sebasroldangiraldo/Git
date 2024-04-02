@@ -1,0 +1,77 @@
+body{
+    background-color:blanchedalmond;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(128, 73, 6);
+}
+
+.titulo h1{
+    font-weight: bolder;
+}
+
+.texto{
+    text-align: center;
+}
+
+.actividades{
+    text-align: center;
+    color: rgb(128, 73, 6);
+}
+
+.actividades h3{
+    font-weight: bolder;
+}
+
+.contenedor{
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+
+.contenedor h4{
+    padding: 3px;
+    background-color: rgb(128, 73, 6);
+    color: white;
+    border-radius: 10px;
+}
+
+.estudiar{
+    width: 100%;
+    background: linear-gradient(rgb(226, 164, 89), white);
+    margin: 10px;
+    border-radius: 15px;
+    padding: 5px;
+    border: 3px solid rgb(128, 73, 6);
+}
+
+.descansar{
+    width: 100%;
+    background: linear-gradient(rgb(226, 164, 89), white);
+    margin: 10px;
+    border-radius: 15px;
+    padding: 5px;
+    border: 3px solid rgb(128, 73, 6);
+}
+
+.compartir{
+    width: 100%;
+    background: linear-gradient(rgb(226, 164, 89), white);
+    margin: 10px;
+    border-radius: 15px;
+    padding: 5px;
+    border: 3px solid rgb(128, 73, 6);
+
+}
+
+.imagen{
+    width: 300px;
+    border-radius: 15px;
+}
+
+.mensaje{
+    text-align: center;
+}
